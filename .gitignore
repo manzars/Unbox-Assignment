@@ -1,0 +1,5 @@
+*.pyc
+/unbox/settings/local
+env_unbox/
+.env
+.vscode
